@@ -1,0 +1,15 @@
+APPBAR: Preference Julia
+TEXT COLOR: [#4287F5]Chat
+SETTINGS TEXT: Text size
+DESC: Chat profile set a sizing.
+SETTINGS TEXT: Show image
+DESC: Tap a Hide/Show in Message image. 
+TEXT COLOR: [#4287F5]Emoji
+SETTINGS TEXT: Sticker animation
+DESC: Only a Sticker animated is WeChat.
+TEXT COLOR: [#4287F5]Other
+SETTINGS TEXT: Material mode
+DESC: Show a material switches.
+TEXT COLOR: [#4287F5]About
+SETTINGS TEXT: Version about
+DESC: Released by 1.0.0
