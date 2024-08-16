@@ -44,3 +44,11 @@ Notification.Builder builder =
         .setBubbleMetadata(bubbleData)
         .setShortcutId(shortcutId)
         .addPerson(chatPartner); 
+// Notification Bubble Add
+Notification.BubbleMetadata bubbleData =
+    new Notification.BubbleMetadata.Builder()
+        .setDesiredHeight(600)
+        .setIntent(bubbleIntent)
+        .setAutoExpandBubble(true)
+        .setSuppressNotification(true)
+        .build();
